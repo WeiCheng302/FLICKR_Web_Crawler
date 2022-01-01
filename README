@@ -1,0 +1,1 @@
+By analyzing the EXIF info, the Exif.py can acquire the image information from the FLICKR_API by setting the central geo-location, the radius and the searching periods.
